@@ -1,0 +1,21 @@
+[submodule "references/leedl-tutorial"]
+	path = references/leedl-tutorial
+	url = https://github.com/datawhalechina/leedl-tutorial.git
+[submodule "references/cs336/assignment1-basics"]
+	path = references/cs336/assignment1-basics
+	url = https://github.com/stanford-cs336/assignment1-basics.git
+[submodule "references/cs336/assignment2-systems"]
+	path = references/cs336/assignment2-systems
+	url = https://github.com/stanford-cs336/assignment2-systems.git
+[submodule "references/cs336/assignment3-scaling"]
+	path = references/cs336/assignment3-scaling
+	url = https://github.com/stanford-cs336/assignment3-scaling.git
+[submodule "references/cs336/assignment4-data"]
+	path = references/cs336/assignment4-data
+	url = https://github.com/stanford-cs336/assignment4-data.git
+[submodule "references/cs336/assignment5-alignment"]
+	path = references/cs336/assignment5-alignment
+	url = https://github.com/stanford-cs336/assignment5-alignment.git
+[submodule "references/easy-rl"]
+	path = references/easy-rl
+	url = https://github.com/datawhalechina/easy-rl.git
